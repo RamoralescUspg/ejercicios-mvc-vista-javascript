@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(48, 48, 48);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+header {
+    padding: 20px;
+    background-color: grey;
+}
+
+/* Estilos para el área principal */
+main {
+    padding: 20px;
+}
+
+/* Estilos para la sección */
+section {
+    margin: 20px 0;
+}
+
+/* Estilos para los párrafos */
+p {
+    margin-bottom: 15px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    padding: 10px;
+    margin-top: 20%;
+    background-color: grey;
+}
